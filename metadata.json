@@ -1,0 +1,6 @@
+{
+  "name": "Earth Nexus",
+  "description": "Real-time global monitoring and intelligence platform with 3D interactive planetary visualization, live natural disasters, weather, space telemetry, and AI situation briefings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
